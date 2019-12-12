@@ -1,6 +1,7 @@
 +++
 title= "Mysql Install"
 date= 2019-08-23T11:47:07+08:00
+tags=["mysql"]
 +++
 ### mac下安装mysql
 brew 安装方式

@@ -1,7 +1,7 @@
 +++
 title= "Go Defer"
 date= 2019-09-04T09:41:06+08:00
-tag= ["golang"]
+tags= ["go"]
 +++
 ### defer 作用
 go语言中有defer关键字；

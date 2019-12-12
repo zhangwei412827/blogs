@@ -5,8 +5,9 @@ paginate = 5
 staticDir="static"
 [params]
   author = "张威"
-  description = "耕读传家～"
+  description = "The acme of foolishness"
   avatar = "images/avatar.jpeg"
+  # tag = "tags"
   # [[params.social]]
   #   name = "github"
   #   url = "https://github.com/gohugoio"

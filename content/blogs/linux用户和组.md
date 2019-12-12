@@ -1,7 +1,7 @@
 +++
 title= "Linux用户和组"
 date= 2019-09-08T10:11:49+08:00
-tag= ["linux"]
+tags= ["linux"]
 +++
 ### 新建系统组mariadb，新建系统用户mariadb
 ### 例子1： 要求其没有家目录,且shell为/sbin/nologin;创建组用groupadd命令；

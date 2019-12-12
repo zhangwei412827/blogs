@@ -1,7 +1,7 @@
 +++
 title= "Go Pointer Receiver"
 date= 2019-08-26T14:13:02+08:00
-tag= ["golang"]
+tags= ["go"]
 +++
 ### golang struct类型
 go语言中没有class概念，但有一个struct类型，可以实现class。

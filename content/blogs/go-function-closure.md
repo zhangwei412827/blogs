@@ -1,7 +1,7 @@
 +++
 title= "Go Function Closure"
 date= 2019-08-27T13:42:13+08:00
-tag= ["golang"]
+tags= ["go"]
 +++
 ### go语言中的closure（闭包）
 
