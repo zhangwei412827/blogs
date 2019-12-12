@@ -23,7 +23,8 @@
     <a href="{{ .Site.BaseURL }}"><img class="app-header-avatar"
         src="{{ .Site.Params.avatar | default "avatar.jpg" | relURL }}"
         alt="{{ .Site.Params.author | default "John Doe" }}" /></a>
-    <h1>{{ .Site.Title }}</h1>
+    <!-- <h1>{{ .Site.Title }}</h1> -->
+    <h2><a class="underline-link" href="/tags/" style="text-decoration: underline;font-style: italic;">文章分类</a></h2>
     <p>
       {{ .Site.Params.description | default "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula turpis sit amet elit pretium." }}
     </p>
